@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kasp_News/static/css/main.7a5c6fe3.css",
+    "main.js": "/Kasp_News/static/js/main.9105b4da.js",
+    "index.html": "/Kasp_News/index.html",
+    "main.7a5c6fe3.css.map": "/Kasp_News/static/css/main.7a5c6fe3.css.map",
+    "main.9105b4da.js.map": "/Kasp_News/static/js/main.9105b4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5c6fe3.css",
+    "static/js/main.9105b4da.js"
+  ]
+}
