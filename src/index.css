@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background: linear-gradient(150deg, #281855 0%, #030207  50%);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 code {
